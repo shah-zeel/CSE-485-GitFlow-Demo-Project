@@ -5,3 +5,4 @@ This section explains the purpose of the demo.
 ## Features
 - Demonstrates branching and merging
 ## Updated Main
+## Rebase Example
